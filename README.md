@@ -19,7 +19,5 @@
 ![Screenshots](gallery/hackathon.gif)
 
 ### Gallery
-![Award ceremony](gallery/gallerynew1.jpg)
-
-![Presentation of application ](gallery/gallerynew3.jpg)
+![Award ceremony](gallery/gallerynew1.jpg) ![Presentation of application ](gallery/gallerynew3.jpg)
 
