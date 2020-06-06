@@ -21,5 +21,5 @@
 ### Gallery
 ![Award ceremony](gallerynew1.jpg)
 
-![Presentation of application ](gallerynew2.jpg)
+![Presentation of application ](gallerynew3.jpg)
 
