@@ -16,7 +16,7 @@
 * You could install the APK on your phone by following this [guide](https://www.lifewire.com/install-apk-on-android-4177185).
 
 ### Application Screenshots
-![Screenshots](hackthon.gif)
+![Screenshots](hackathon.gif)
 
 ### Gallery
 ![Award ceremony](gallery1.jpg)
